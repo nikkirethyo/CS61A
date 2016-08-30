@@ -1,4 +1,3 @@
-# CS 61A Summer 2014
 # Name: Nichole Rethmeier 
 # Login: cs61a-jp
 
